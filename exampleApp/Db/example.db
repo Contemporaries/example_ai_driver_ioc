@@ -1,0 +1,5 @@
+record(ai, "example:ai") {
+    field(DESC, "this is a example of ai record")
+    field(DTYP, "EXAMPLE_AI")
+    field(SCAN, ".1 second")
+}
